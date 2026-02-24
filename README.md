@@ -3,6 +3,19 @@
 A full-stack Food Ordering Platform built using the MERN stack.  
 This project includes a customer application for browsing food and placing orders, along with an Admin Dashboard for managing inventory and tracking orders in real-time.
 
+## 🌐 Live Demo
+
+### 👤 User Application  
+Frontend: https://restaurant-food-delivery-app-frontend.onrender.com  
+
+### 👨‍🍳 Admin Dashboard  
+Admin Panel: https://restaurant-food-delivery-app-admin.onrender.com  
+
+### 🔧 Backend API  
+API Server: https://restaurant-food-delivery-app-backend.onrender.com
+
+
+
 ---
 
 ## 🚀 Project Overview
